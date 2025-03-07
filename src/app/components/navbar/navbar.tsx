@@ -12,7 +12,7 @@ const NavBar: React.FC = () => {
         />
       </div>
       <div className="flex items-center">
-        <div className="flex items-center bg-gray-800 p-2 rounded-md">
+        <div className="flex items-center hover:bg-gray-700 p-2 rounded-md">
           <div className="relative w-10 h-10">
             <Image
               src="/mclogo.png"
